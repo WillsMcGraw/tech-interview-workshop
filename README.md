@@ -23,9 +23,16 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+* Wills McGraw
+* willsmcgraw21
 
 * **Your partner's name and PID:**
+* Rodrigo Pardini Azzolin
+* rodbot
 
 * **Link to selected coding challenge:**
+* https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+* He said I was getting on the right track. When I seemed a little lost or was working through something and wasn't quite sure what was the correct
+* way to do something, he helped lead me to the right answer. He offered good insights when I needed them.
